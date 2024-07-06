@@ -3,11 +3,9 @@
    <h3 align="center">¡Hey 👋! Soy Misael 👨🏻‍💻</h3>
 </p>
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
 # 👨🏻‍💻 Últimos proyectos 👨🏻‍💻
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
