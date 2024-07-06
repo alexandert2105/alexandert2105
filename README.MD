@@ -1,13 +1,9 @@
 <p align="center" width="300">
    <img align="center" width="200" border-radius="50%" src="https://avatars.githubusercontent.com/u/33366560?v=4" />
-   <h3 align="center">¡Hey 👋! Soy Alex 👨🏻‍💻</h3>
+   <h3 align="center">¡Hey 👋! Soy Misael 👨🏻‍💻</h3>
 </p>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
-# 🍕 bdougie's Top 8 Page🍕
-
-## bdougie has <!-- follower-counter -->2293<!-- /follower-counter --> followers
+# 👨🏻‍💻 Últimos proyectos 👨🏻‍💻
 
 ###
 
