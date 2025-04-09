@@ -5,7 +5,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-Soy **Technical Leader** y **Frontend Developer Senior** con más de 8 años creando experiencias digitales de alto impacto. Me apasiona construir soluciones robustas, escalables y seguras utilizando **Angular**, **Ionic**, **AWS** y **arquitecturas limpias**.
+Soy **Technical Leader** y **Frontend Developer Senior** con más de 8 años creando experiencias digitales de alto impacto. Me apasiona construir soluciones robustas, escalables y seguras utilizando **Angular**, **Ionic**, **React** y **arquitecturas limpias**.
 
 Actualmente lidero el desarrollo frontend de productos digitales en **Seguros Bolívar**, incluyendo la app **Bolívar Conmigo**.
 
@@ -15,7 +15,7 @@ Actualmente lidero el desarrollo frontend de productos digitales en **Seguros Bo
 
 ### 🔷 Bolívar Conmigo App
 Aplicación híbrida (Angular + Ionic) orientada al bienestar, salud y movilidad de los usuarios.  
-**Stack:** Angular · Ionic · AWS · Clean Architecture
+**Stack:** Angular · Ionic · React · Clean Architecture
 
 ---
 
@@ -30,20 +30,15 @@ Aplicación híbrida (Angular + Ionic) orientada al bienestar, salud y movilidad
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="30" alt="aws logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="aws logo" />
+  <img width="12" />
 </div>
-
----
-
-## 📚 Certificaciones
-
-- ✅ Angular 17 – Platzi *(2024)*  
-- ✅ Arquitecturas Limpias – Platzi *(2024)*  
-- 🎓 Big Data – MIT CSAIL *(2018)*
 
 ---
 
@@ -60,7 +55,7 @@ Aplicación híbrida (Angular + Ionic) orientada al bienestar, salud y movilidad
 ## 📬 Conecta conmigo
 
 <div align="left">
-  <a href="mailto:misael.torres.rayo@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+  <a href="mailto:alexandert2105@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
   <a href="https://www.linkedin.com/in/misael-torres" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
 </div>
 
