@@ -1,6 +1,5 @@
-<p align="center" width="300">
-   <img align="center" width="200" style="border-radius: 50%;" src="https://github.com/alexandert2105/alexandert2105/assets/33366560/640e5f5d-21bb-4b79-a992-e45b872a857d" />
-   <h3 align="center">¡Hey 👋! Soy Misael 👨🏻‍💻</h3>
+<p align="center">
+  <img src="assets/banner-misael.png" alt="¡Hey! Soy Misael 👨🏻‍💻" width="100%" />
 </p>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
