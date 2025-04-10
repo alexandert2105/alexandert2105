@@ -1,5 +1,20 @@
+<!-- Estilos embebidos -->
+<style>
+  .banner-fade {
+    width: 100%;
+    max-width: 100%;
+    display: block;
+
+    /* Fade out solo en la parte inferior */
+    -webkit-mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
+    mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+  }
+</style>
+
 <p align="center">
-  <img src="assets/bannerMisaDev.png" alt="¡Hey! Soy Misael 👨🏻‍💻" width="100%" />
+  <img class="banner-fade" src="assets/MisaDev-banner.png" alt="¡Hey! Soy Misael 👨🏻‍💻" width="100%" />
 </p>
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
